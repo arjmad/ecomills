@@ -1,0 +1,43 @@
+
+@import url(common.css);
+
+/*-----------------------------------------
+  PUBLIC PAGE
+-------------------------------------------*/
+
+#public_heading {
+  margin-top: 40px;
+  padding-bottom: 15px;
+}
+
+#public_heading h1 {
+  font-size: 30px;
+}
+
+#public_heading .divider_image {
+  display: block;
+}
+
+#public_heading .divider_image img {
+  height: 18px;
+  width: 525px;
+}
+
+/*-----------------------------------------
+  AD AREA
+-------------------------------------------*/
+
+#ad_area {
+  height: 105px;
+  margin-top: 30px;
+}
+
+#ad_area .divider_image {
+  display: block;
+  margin-top: 25px;
+}
+
+#ad_area .divider_image img {
+  height: 21px;
+  width: 518px;
+}

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title></title>
+	<atom:link href="/?feed=rss2" rel="self" type="application/rss+xml" />
+	<link>http://ecomills.com</link>
+	<description></description>
+	<lastBuildDate>Sun, 10 Jan 2016 19:36:45 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=423</generator>
+		<item>
+		<title></title>
+		<link>http://ecomills.com/?p=25</link>
+		<comments>http://ecomills.com/?p=25#comments</comments>
+		<pubDate>Wed, 12 Sep 2012 03:28:07 +0000</pubDate>
+		<dc:creator>admin</dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+
+		<guid isPermaLink="false">http://ecomills.com/?p=25</guid>
+		<description><![CDATA[At Ecomills we believe in a greener earth for future generations, our main raw material used in our production line is discarded and used tires. We convert the used tires into beautiful entrance ways in the form of Tiles, pavers &#8230; <a href="/?p=25">Continue reading <span class="meta-nav">&#8594;</span></a>]]></description>
+				<content:encoded><![CDATA[<div class="row1">
+<p>
+<div class="leftC">
+<p> <span>At</span> <span> <span>Ecomills</span> </span> we believe in a greener earth for future generations, </p>
+<p>our main raw material used in our production line is discarded and used tires.</p>
+<p>We convert the used tires into beautiful entrance ways in the form of Tiles, pavers and matting.</p>
+<p>We use natural coco fiber to make mats and matting.</p>
+<p>Feel free to browse our website and take a look at our various natural coco and recycled tire products.</p>
+</p></div>
+<p>  <!--leftC--></p>
+<div class="rightC"> <iframe width="350" height="300" src="https://www.youtube.com/embed/HeQr6-VnwwU?rel=0" frameborder="0" allowfullscreen></iframe> </div>
+<p>  <!--leftC-->
+</div>
+<div class="genconthldr vspacer_m40">
+<ul class="ulthreecol">
+<li>
+<dl class="dlsinglecolleft">
+<dt class="tiretile"></dt>
+<dd><img alt="" src="wp-content/themes/ecomills/images/recycle-tire-tile.png" width="" height="" border="0" /></dd>
+</dl>
+</li>
+<li>
+<dl class="dlsinglecolleft">
+<dt class="coco"></dt>
+<dd><img alt="" src="wp-content/themes/ecomills/images/recycle-tire-tile02.png" width="" height="" border="0" /></dd>
+</dl>
+</li>
+<li>
+<dl class="dlsinglecolleft">
+<dt class="tiremats"></dt>
+<dd><img alt="" src="wp-content/themes/ecomills/images/recycle-tire-tile03.png" width="" height="" border="0" /></dd>
+</dl>
+</li>
+</ul>
+</div>
+]]></content:encoded>
+			<wfw:commentRss>http://ecomills.com/?feed=rss2&#038;p=25</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>
